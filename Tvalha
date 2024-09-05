@@ -5718,6 +5718,37 @@ https://streamhls.com/view/c10c4ec6-51d2-5a05-b590-331149459f2b.m3u8
 #EXTINF:-1 type="movie"  group-title="VOD หนังมาใหม่" tvg-name="3 Days To Kill" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/12/3-Days-To-Kill-2014-3-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.png",  3 Days To Kill
 #EXTVLCOPT:http-referrer=https://www.i-moviehd.com/
 https://streamhls.com/view/5bb99669-842c-5977-928e-c25cf88de47f.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Malaysia" tvg-id="Lawak Sentral.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Malaysia" tvg-id="Drama Hebat.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+
+
+
+<============================== Brunei ======================================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 #######VOD หนัง: MARVEL####
 #EXTINF:-1 type="movie" tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever-2022-แบล็ค-แพนเธอร์-วาคานด้าจงเจริญ-300x450.png" group-title="VOD หนัง: MARVEL",Black Panther Wakanda Forever (2022) แบล็ค แพนเธอร์ วาคานด้าจงเจริญ
 #EXTVLCOPT:https://www.123-hd.com/

@@ -6862,17 +6862,7 @@ https://flv.intechmedia.net/live/ch54.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Jayatv_kedua.png/revision/latest?cb=20160415070839",Jaya TV Papua
 #EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch52.m3u8
-
-<======================= Internet Radio ===============================>
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="Internet Radio",Nagaswara POP
-https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="Internet Radio",Nagaswara Dangdut
-https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-
+apa 
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="Internet Radio",Nagaswara FM
 https://live.nagaswarafm.com:9900/stream
 
@@ -6897,113 +6887,43 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmS5das.png" group-title="Internet Radio",Pro 3 RRI
-https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaqtR.png" group-title="Internet Radio",Pro 1 RRI Kupang
-https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
+1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0gRe.png" group-title="Internet Radio",Pro 4 RRI Kupang
-https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro4.mp3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Malaysia" tvg-id="Lawak Sentral.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaF9a.png" group-title="Internet Radio",Pro 1 RRI Ende
-https://stream-node1.rri.co.id/streaming/23/9223/rriendepro1.mp3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Malaysia" tvg-id="Drama Hebat.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlTTG.png" group-title="Internet Radio",Pro 2 RRI Kupang
-https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro2.mp3
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlzps.png" group-title="Internet Radio",Pro 2 RRI Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSadcF.png" group-title="Internet Radio",Pro 1 RRI Surabaya
-https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3
+<============================== Brunei ======================================>
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlxvn.png" group-title="Internet Radio",Pro 2 RRI Surabaya
-https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro2.mp3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8?id=2
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSanMN.png" group-title="Internet Radio",Pro 1 RRI Alor
-https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Brunei" tvg-id="Aneka" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSa28g.png" group-title="Internet Radio",Pro 1 RRI Atambua
-https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaJF1.png" group-title="Internet Radio",Pro 1 RRI Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSafwv.png" group-title="Internet Radio",Pro 1 RRI Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaCnp.png" group-title="Internet Radio",Pro 1 RRI Labuan Bajo
-https://stream-node2.rri.co.id/streaming/37/9337/rrilabuanbajopro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaoPI.png" group-title="Internet Radio",Pro 1 RRI Makassar
-https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaIcX.png" group-title="Internet Radio",Pro 1 RRI Malang
-https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSazFt.png" group-title="Internet Radio",Pro 1 RRI Manado
-https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaA9s.png" group-title="Internet Radio",Pro 1 RRI Rote
-https://stream-node0.rri.co.id/streaming/20/9120/rrirotepro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSaTSn.png" group-title="Internet Radio",Pro 1 RRI Sumba
-https://stream-node0.rri.co.id/streaming/41/9041/rrisumbapro1.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSloYX.png" group-title="Internet Radio",Pro 2 RRI Atambua
-https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSln2t.png" group-title="Internet Radio",Pro 2 RRI Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlB4I.png" group-title="Internet Radio",Pro 2 RRI Ende
-https://stream-node1.rri.co.id/streaming/23/9223/rriendepro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlujf.png" group-title="Internet Radio",Pro 2 RRI Makassar
-https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSlAQ4.png" group-title="Internet Radio",Pro 2 RRI Malang
-https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmSl5Cl.png" group-title="Internet Radio",Pro 2 RRI Manado
-https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0kf2.png" group-title="Internet Radio",Pro 4 RRI Ambon
-https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS08U7.png" group-title="Internet Radio",Pro 4 RRI Bandung
-https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0Oil.png" group-title="Internet Radio",Pro 4 RRI Denpasar
-https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0UJ9.png" group-title="Internet Radio",Pro 4 RRI Jakarta
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0rOu.png" group-title="Internet Radio",Pro 4 RRI Jayapura
-https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0Pxj.png" group-title="Internet Radio",Pro 4 RRI Makassar
-https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS04Db.png" group-title="Internet Radio",Pro 4 RRI Malang
-https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0iWx.png" group-title="Internet Radio",Pro 4 RRI Manado
-https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS0vlS.png" group-title="Internet Radio",Pro 4 RRI Surabaya
-https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro4.mp3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS5zFe.png" group-title="Internet Radio",Pro 5 RRI Makassar
-https://stream.streamaudio.de:8000/teststream3
-
-#EXTINF:-1 tvg-logo="https://iili.io/JmS5oP9.png" group-title="Internet Radio",Pro 5 RRI Surabaya
-https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
 ############Adventure หนังผจญภัย alha ########
+
 #EXTINF:-1 type="movie" group-title="VOD หนังผจญภัย" tvg-name="Army of the Dead (2021) แผนปล้นซอมบี้เดือด" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/05/x3taBaWfRzw1NIKhEPpKPwKBAOC-200x300.jpg",  Army of the Dead (2021) แผนปล้นซอมบี้เดือด ตัวเล่นสำรอง ซับไทย
 #EXTVLCOPT:http-referrer=https://www.nung2hdd.com/
 https://streamhls.com/view/2f191b13-3d92-5ffa-84b1-4419a1095aef.m3u8
@@ -8209,6 +8129,10 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc463f86d048943f76
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb895332b31c07d08800cd4848aad040:41527a884d4f1749edd4e2e4282d3642
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63844c27d940521074bd7605_hbovodhd/dash0/THA_DOLBY_index.mpd
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED" tvg-logo="http://mu03.wanicelife.com:8880/images/BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED.jpg" group-title="VIP-INTER",BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED
 http://mudy02.cularu.com:8880/movie/60mmk220015/38645182/64751.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BigTitsAtSchool.20.03.15.Bella.Rolland.Old.Man.On.Campus" tvg-logo="http://mu03.wanicelife.com:8880/images/BigTitsAtSchool.20.03.15.Bella.Rolland.Old.Man.On.Campus.jpg" group-title="VIP-INTER",BigTitsAtSchool.20.03.15.Bella.Rolland.Old.Man.On.Campus
@@ -9651,9 +9575,6 @@ https://sritv.serv00.net/red/play.mpd?id=204&type=dash
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-
-
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -9891,6 +9812,9 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
+
+
+
 <========================= HBO Group ===================================>
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 

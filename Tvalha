@@ -1002,6 +1002,10 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13052
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+
+
+
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #https://cdn2.aws-live-streaming.com/lsmscore/3bbsports1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1674194748.png" group-title="DOOKEELA",Arena Sport 1 Premium
@@ -1364,87 +1368,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/skysportsgolf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1665106057.png" group-title="DOOKEELA",Sky Sports Main Event UK
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/skysportmainevent/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712889285.png" group-title="DOOKEELA",Sky Sports Mix | UK
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/skysportsmix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1696317833.png" group-title="DOOKEELA",Sky Sports Premier League UK
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/skysportepl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712889189.png" group-title="DOOKEELA",Sky Sports Racing | UK
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/skysportsracing/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1712889076.png" group-title="DOOKEELA",Sky Sports Tennis | UK
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/skysportstennis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979709.png" group-title="DOOKEELA",Sport TV 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sporttv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663979801.png" group-title="DOOKEELA",Sport TV 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sporttv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980327.png" group-title="DOOKEELA",Sport TV 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sporttv3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664041351.png" group-title="DOOKEELA",Sport TV 4
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sporttv4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664125991.png" group-title="DOOKEELA",Sport TV 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sporttv5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664202734.png" group-title="DOOKEELA",sportdigital
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sportdigital/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664202841.png" group-title="DOOKEELA",Sportklub 3 Slovenia
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sportklub3slovenia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1663980968.png" group-title="DOOKEELA",sportv
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1697844825.png" group-title="DOOKEELA",SporTV 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sportv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664529562.png" group-title="DOOKEELA",SPOTV
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/spotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664529575.png" group-title="DOOKEELA",SPOTV 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/spotv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691933533.png" group-title="DOOKEELA",SSC 1 HD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ssc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691948780.png" group-title="DOOKEELA",SSC EXTRA 1
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sscextra1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1692334268.png" group-title="DOOKEELA",SSC EXTRA 2
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sscextra2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716487143.png" group-title="DOOKEELA",SSC EXTRA 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sscextra3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1693674503.png" group-title="DOOKEELA",SSC NEWS
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/sscnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691934908.png" group-title="DOOKEELA",SSC2 HD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ssc2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691934918.png" group-title="DOOKEELA",SSC3 HD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ssc3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691934931.png" group-title="DOOKEELA",SSC4 HD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ssc4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691934941.png" group-title="DOOKEELA",SSC5 HD
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ssc5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1673134276.png" group-title="DOOKEELA",T Sports 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/tsports7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691521854.png" group-title="DOOKEELA",TNT Sports 5 UK
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/btsport5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1694456079.png" group-title="DOOKEELA",TNT USA
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/tntusa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1691371195.png" group-title="DOOKEELA",True Ball Thai 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8
@@ -1601,18 +1525,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/ziggosportdocu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1672583851.png" group-title="DOOKEELA",Ziggo Select
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/ziggosportselect/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1665475536.png" group-title="DOOKEELA",Ziggo Sport Voetbal
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ziggosportvoetbal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1685812254.png" group-title="DOOKEELA",ช่อง 3
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ch3hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664574997.png" group-title="DOOKEELA",ช่อง 5
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ch5hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1688059473.png" group-title="DOOKEELA",ช่อง 7
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn2.aws-live-streaming.com/lsmscore/ch7hd/playlist.m3u8
+#EXTINF:-1 tvg-logo=
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="DOOKEELA",บีอินสปอตส์ 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/bein1/playlist.m3u8

@@ -162,7 +162,7 @@ http://210.210.155.66/h/h193/index.m3u8
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 
-########
+<######## alha ############>
 #EXTINF:-1 tvg-id="" tvg-name="Bein 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="กีฬา",Bein 3
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/609_BEIN3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
@@ -425,7 +425,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/sporttv4/playlist.m3u8
 
 
 
-
+<########## สารคดี 
 #EXTINF:-1 tvg-id="" tvg-name="lovenature-4K" tvg-logo="https://moviektu.com/news/logotv/discovery/sd-lovenature.png" group-title="สารคดี",lovenature-4K
 #EXTVLCOPT:http-referrer=https://99dooball.com
 https://cdn2.aws-live-streaming.com/lsmscore/love-nature-4k/chunks.m3u8

@@ -1019,10 +1019,8 @@ https://tgaadi-web.tech/stalker/Jio-be.m3u8?id=13052
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
 
+#####################฿฿฿฿
 
-
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#https://cdn2.aws-live-streaming.com/lsmscore/3bbsports1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1674194748.png" group-title="DOOKEELA",Arena Sport 1 Premium
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/arenasport1p/playlist.m3u8
@@ -1818,6 +1816,8 @@ https://cdn2.aws-live-streaming.com/lsmscore/cnn/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/skysportsnews/playlist.m3u8
 #Movie MP4
+
+
 ####สยองขวัญ Horror#####
 ######EXTINF:-1 type="movie" group-title="VOD หนังสยองขวัญ" tvg-name="" tvg-logo="#", H
 #EXTINF:-1 type="movie" group-title="VOD หนังสยองขวัญ" tvg-name="" tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2023/10/Hatchet-2006.jpg", Hatchet 2006
@@ -2222,13 +2222,10 @@ https://main.77player.xyz/m3u8/a61cd475e71dfa4709bc7a71/a61cd475e71dfa4709bc7a71
 #EXTINF:-1 type="movie" tvg-logo="https://lh3.googleusercontent.com/DSKZc7oiAjS1qcM2okyZypSl-HlF-3oSpmt0PStpYYXIaa6sC_47WUNXgn7IhjDIe4_ajkn1O41xoFq-s1Cffrkmw4fatdN3H4I=s0" group-title="VOD อัพเดท",Fast 10
 https://streamhls.com/view/c7119025-0598-5d6f-9c7d-50d922c1a9d5.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/01/Dog-Gone-2023-หมาหลง-300x450.png" group-title="VOD อัพเดท",Dog Gone (2023) หมาหลง
-#EXTVLCOPT:https://www.123-hd.com/
-https://main.77player.xyz/m3u8/d13b8e7e2b5b266fa85afd04/d13b8e7e2b5b266fa85afd04438.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://www.123-hd.com/wp-content/uploads/2023/01/The-Hatchet-Wielding-Hitchhiker-2022-คนถือขวานโบกรถ-300x450.png" group-title="VOD หนังฝรั่ง",The Hatchet Wielding Hitchhiker (2022) คนถือขวานโบกรถ
-#EXTVLCOPT:https://www.123-hd.com/
-https://main.77player.xyz/m3u8/7c5218a6183c2f52079f7cd6/7c5218a6183c2f52079f7cd6438.m3u8
-#EXTINF:-1 type="movie" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4445/20230806181820j9YW.jpg" group-title="VOD หนังฝรั่ง",Jeepers Creepers Reborn
-https://movie.server-cdn-streaming.com/api/uploads/movie/4445/video/13116/hls/movie.m3u8
+
+
+
+
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="Mission-Impossible-7" tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/07/Mission-Impossible-7.jpg" group-title="VOD อัพเดท",Mission-Impossible-7
 https://main.77player.xyz/newplaylist/ab241e2f9fb069949674348f/ab241e2f9fb069949674348f.m3u8
 #EXTINF:-1 type="movie" tvg-id="" tvg-name="The Moon - ปฏิบัติการพิชิตจันทร์ (2023)" tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/4471/202308310952490IAK.jpg" group-title="VOD อัพเดท",The Moon - ปฏิบัติการพิชิตจันทร์ (2023)
@@ -2364,6 +2361,8 @@ https://play.kakjeawplay.xyz/7c883c2a-e7eb-4181-a5f6-3e2a28ed7337/_
 #EXTINF:-1 type="movie"  group-title="VOD อัพเดท" tvg-name="Thank You I’m Sorry (2023)" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/12/bltCACOWkCsEGjUi2zuwp0bJeRO-190x300-c-default.webp",  Thank You I’m Sorry (2023) ตัวเล่นหลัก ซับไทย
 #EXTVLCOPT:http-referrer=https://www.9nunghd.com/
 https://play.kakjeawplay.xyz/7e00904c-19f0-4f64-b149-f7ea6f7ecfdc/_
+
+
 =========================================== HBOGO VOD ===========================================
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/06/The-Accidental-Twins-2024.jpg" group-title="VOD หนังปี 2024",The Accidental Twins (2024) ฝาแฝดบังเอิญ
 https://streamhls.com/view/c7e15aa4-a80a-5715-ac0e-e7146e247060.m3u8
@@ -2871,6 +2870,13 @@ https://streamhls.com/view/4a796f3d-5bf8-584a-9cdd-a09b3bf2940b.m3u8
 https://streamhls.com/view/1ce5bb46-5b83-5924-a4f0-61e8f563ccd7.m3u8
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/01/Bitconned.jpg" group-title="VOD หนังปี 2024",Bitconned (2024) คริปโตลวง
 https://streamhls.com/view/20eecd9c-f6a8-5f94-a8b8-b98fbf1e6ab3.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/06/Unseen-2023.jpg" group-title="VOD หนังปี 2023",Unseen (2023) สิ่งที่มองไม่เห็น
 https://streamhls.com/view/ff04f414-41ed-5d41-a012-9202ccf27d23.m3u8
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/06/SSSS-DYNAZENON-Movie.jpg" group-title="VOD หนังปี 2023",SSSS.Dynazenon Movie (2023) SSSS ไดนาเซนอน มูฟวี่
@@ -3643,6 +3649,11 @@ https://streamhls.com/view/21897808-48c6-540e-9d27-679285ceb616.m3u8
 https://streamhls.com/view/07250417-f885-5b6d-a446-15eeba2cec69.m3u8
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Forever-2023.jpg" group-title="VOD หนังปี 2023",Forever (2023)
 https://streamhls.com/view/022644ce-0934-591a-ac06-8bb570959d36.m3u8
+
+
+
+2024
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/06/All-in-2024.jpg" group-title="VOD หนังปี 2024",All In (Po ke wang zhe) (2024) หมดหน้าตัก
 https://streamhls.com/view/8a9bcd32-1021-59e4-b30f-9d5c9481777e.m3u8
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2024/06/Bade-Miyan-Chote-Miyan-2024.jpg" group-title="VOD หนังปี 2024",Bade Miyan Chote Miyan (2024) สองกล้าบ้าระห่ำ
@@ -5730,10 +5741,7 @@ https://streamhls.com/view/944176aa-8650-5119-8963-9fc2a57d0e1c.m3u8
 https://streamhls.com/view/ba49eda6-6294-50da-8d94-d2785ddbc66f.m3u8
 #EXTINF:-1 type="movie" tvg-logo="https://www.9nunghd.com/wp-content/uploads/2023/01/You-People-2023.webp" group-title="VOD อัพเดท",You People (2023)
 https://streamhls.com/view/c10c4ec6-51d2-5a05-b590-331149459f2b.m3u8
-#EXTINF:-1 type="movie"  group-title="VOD หนังมาใหม่" tvg-name="3 Days To Kill" tvg-logo="https://www.i-moviehd.com/wp-content/uploads/2019/12/3-Days-To-Kill-2014-3-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2.png",  3 Days To Kill
-#EXTVLCOPT:http-referrer=https://www.i-moviehd.com/
-https://streamhls.com/view/5bb99669-842c-5977-928e-c25cf88de47f.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+
 #EXTINF:-1 group-title="Malaysia" tvg-id="Lawak Sentral.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://i.postimg.cc/QtgS6JVY/download-2024-01-19-T210328-208.png",Lawak Sentral
 https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
 
